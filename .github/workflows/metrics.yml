@@ -1,52 +1,49 @@
 name: GitHub Metrics
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-push:
-branches:
-- main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-github-metrics:
-runs-on: ubuntu-latest
+  github-metrics:
+    runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
 
-permissions:
-  contents: write
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-steps:
-  - name: Generate GitHub Metrics
-    uses: lowlighter/metrics@latest
-    with:
-      token: ${{ secrets.GITHUB_TOKEN }}
+          user: gamngperfect
 
-      user: gamngperfect
+          template: classic
+          base: header, activity, community, repositories, metadata
 
-      template: classic
+          config_timezone: Europe/Stockholm
+          config_padding: 6%
 
-      base: header, activity, community, repositories, metadata
+          optimize: svg
+          filename: github-metrics.svg
 
-      config_timezone: Europe/Stockholm
-      config_padding: 6%
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
 
-      optimize: svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-      filename: github-metrics.svg
+          plugin_achievements: yes
+          plugin_achievements_display: compact
 
-      plugin_languages: yes
-      plugin_languages_limit: 6
-      plugin_languages_sections: most-used
-      plugin_languages_details: percentage
-
-      plugin_isocalendar: yes
-      plugin_isocalendar_duration: half-year
-
-      plugin_achievements: yes
-      plugin_achievements_display: compact
-
-      output_action: commit
-      committer_branch: main
-      committer_message: "📊 Update GitHub Metrics"
-
+          output_action: commit
+          committer_branch: main
+          committer_message: "Update GitHub Metrics"
