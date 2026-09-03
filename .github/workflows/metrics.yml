@@ -12,7 +12,7 @@ jobs:
 github-metrics:
 runs-on: ubuntu-latest
 
-```
+
 permissions:
   contents: write
 
@@ -49,4 +49,4 @@ steps:
       output_action: commit
       committer_branch: main
       committer_message: "📊 Update GitHub Metrics"
-```
+
