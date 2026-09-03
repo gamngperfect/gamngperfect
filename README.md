@@ -1,103 +1,116 @@
 <div align="center">
 
-# 👋 Hey, I'm Gamingperfect
+# ⚡ GAMINGPERFECT
 
-### 💻 Developer • 🤖 Discord Bot Developer • 🛡️ Security Enthusiast
+### `Developer` · `Discord Bot Developer` · `IT Enthusiast`
 
-Building things, breaking things, and learning how they work.
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Gamingperfect)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/)
+<a href="https://github.com/Gamingperfect">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<br><br>
+
+> **Building. Learning. Improving.**
 
 </div>
 
 ---
-
-## 🚀 About Me
-
-```yaml
-name: Gamingperfect
-role: Developer
-focus:
-  - Discord Bots
-  - Programming
-  - IT
-  - Cybersecurity
-currently_building: Guardex
-```
-
-I enjoy creating useful projects and learning new technologies along the way.
-
-My main project right now is **Guardex** — a Discord bot focused on moderation, protection and server security.
-
----
-
-## 🛡️ Guardex
-
-> **A Discord bot built to protect your community.**
-
-Guardex is designed to provide powerful tools for Discord servers, with a focus on:
-
-* 🔨 Moderation
-* 🛡️ Server protection
-* 🚨 Anti-raid features
-* 📋 Logging
-* ⚙️ Automation
-* 🔐 Security
-
-**More coming soon...**
-
----
-
-## 💻 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+## 🛡️ GUARDЕX
+
+### `Protect your community. Automate your server.`
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gamingperfect's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamingperfect\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamingperfect\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Currently Working On
+Guardex is my main project — a Discord bot built around **moderation, security and server protection**.
 
 ```text
-[████████████████████░░] 90%  Guardex
-[██████████████░░░░░░░░] 70%  New features
-[██████████░░░░░░░░░░░░] 50%  Learning
+                    G U A R D E X
+
+       ┌─────────────────────────────────────┐
+       │                                     │
+       │       🛡️  SERVER PROTECTION         │
+       │                                     │
+       │       🔨  SMART MODERATION          │
+       │                                     │
+       │       🚨  ANTI-RAID SYSTEMS         │
+       │                                     │
+       │       📋  ADVANCED LOGGING          │
+       │                                     │
+       └─────────────────────────────────────┘
 ```
 
-### 🎯 Goals
+### ✦ What I'm building
 
-* 🚀 Make Guardex better
-* 🧠 Improve my programming skills
-* 🔐 Learn more about cybersecurity
-* 💡 Build more useful projects
-* 🌐 Create something people actually use
+* 🛡️ Advanced server protection
+* 🔨 Powerful moderation tools
+* 🚨 Anti-raid / anti-abuse systems
+* 📋 Detailed logging
+* ⚙️ Automated server management
+* 🔐 Security-focused features
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
+
+## 🧠 ABOUT ME
+
+</div>
+
+I'm a developer who enjoys **programming, IT, Discord development and security**.
+
+I like taking an idea and turning it into something functional — especially when it involves automation, bots and systems that solve real problems.
+
+```yaml
+┌─ PROFILE ─────────────────────┐
+│                              │
+│  Name      → Gamingperfect   │
+│  Role      → Developer       │
+│  Project   → Guardex         │
+│                              │
+│  Focus:                      │
+│    → Programming             │
+│    → Discord Development     │
+│    → IT                      │
+│    → Cybersecurity           │
+│                              │
+└──────────────────────────────┘
+```
+
+---
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+## ⚙️ TECHNOLOGIES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,git,github,vscode&theme=dark" />
+
+<br><br>
+
+`Python` · `JavaScript` · `Git` · `GitHub` · `VS Code`
+
+</div>
+
+---
+
+## 📊 GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gamingperfect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=9f9f9f" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamingperfect&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=9f9f9f" />
 
 </div>
 
@@ -105,8 +118,56 @@ Guardex is designed to provide powerful tools for Discord servers, with a focus 
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+## 🚧 CURRENTLY BUILDING
 
-**⭐ Check out my repositories and follow me if you like my work!**
+### 🛡️ Guardex
+
+`████████████████████░░` **90%**
+
+<br>
+
+*Making Discord servers safer, smarter and easier to manage.*
+
+</div>
+
+---
+
+## 🎯 ROADMAP
+
+```text
+2026
+ │
+ ├── 🛡️ Guardex
+ │    ├── Moderation
+ │    ├── Security
+ │    ├── Logging
+ │    └── Automation
+ │
+ ├── 💻 Improve programming
+ │
+ ├── 🔐 Learn more about cybersecurity
+ │
+ └── 🚀 Build bigger projects
+```
+
+---
+
+<div align="center">
+
+## 💭 PHILOSOPHY
+
+### *"Don't just use technology. Understand it."*
+
+<br>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Feel free to explore my repositories.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Gamingperfect&style=for-the-badge&color=5865F2&label=PROFILE+VIEWS" />
 
 </div>
