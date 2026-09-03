@@ -1,77 +1,93 @@
-# 👾 About Me
+<div align="center">
 
-```python
+<img src="./profile.png" width="350" style="border-radius:50%" />
+
+<br/>
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Gamingperfect&label=Profile+Views&color=B08BB4&style=flat-square" /> &nbsp; <img src="https://img.shields.io/github/followers/Gamingperfect?label=Followers&style=flat-square&color=B08BB4" />
+
+</div>
+
+👾 About Me
 gamingperfect = {
-    "focus": ["Programming", "Discord Bots", "IT"],
+    "focus":        ["Programming", "Discord Bots", "IT"],
     "main_project": "Guardex",
-    "languages": ["Python", "TypeScript"],
-    "tools": ["Git", "GitHub", "VS Code"],
-    "os": "Windows",
-    "note": "Building things and learning along the way."
+    "languages":    ["Python", "TypeScript"],
+    "daily_driver": "Windows",
+    "tools":        ["Git", "GitHub", "VS Code"],
+    "note":         "Building things and learning along the way."
 }
-```
-
----
-
-# 🔭 What I'm Building
-
-* 🛡️ **Guardex** — Discord bot focused on moderation, security and server protection
-* 🤖 Discord automation & management tools
-* ⚙️ New features and systems for Guardex
-* 💻 Personal programming projects
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript&theme=dark" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-### Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Gamingperfect&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-# 🏆 Trophies
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=Gamingperfect&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-# 🐍 Contributions
-
-<p>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
+🔭 What I'm Building
+🛡️ Guardex — Discord bot focused on moderation, security and server protection
+🤖 Discord Systems — Automation and management tools for Discord servers
+⚙️ Guardex Features — Constantly improving and adding new systems
+💻 Personal Projects — Experimenting with programming and new ideas
+🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Gamingperfect
+Languages
 
-**Building Guardex. Learning every day.**
+
+
+
+
+Operating System
+
+
+
+
+Infrastructure & Tools
+
+
+
+
+
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gamingperfect&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamingperfect&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Gamingperfect&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🏆 Trophies
+
+<div align="center">
+
+
+
+
+</div>
+
+🐍 Contributions
+
+<div align="center">
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gamingperfect/Gamingperfect/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gamingperfect/Gamingperfect/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gamingperfect/Gamingperfect/output/github-contribution-grid-snake-dark.svg" /> </picture>
+
+</div>
+
+🛡️ Guardex
+
+<div align="center">
+
+Building. Improving. Protecting.
+
+<br/>
+
+Made with 💜 by Gamingperfect
 
 </div>
